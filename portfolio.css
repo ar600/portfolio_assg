@@ -1,0 +1,121 @@
+
+*{
+
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+width: 900px; 
+/* height: auto; */
+background: linear-gradient(75deg, #301E24, #6F5964,#301E24 );
+margin: 0px auto; 
+ /* padding: 15px;   */
+
+
+}   
+
+#header{
+ height: 50px;
+ background-color: lightgray;
+ margin-bottom: 15px;
+ padding-left: 20px;
+ padding-top: 15px;
+} 
+  /* sidebar left    */
+#main_content{
+
+}
+
+#top_right{
+ height: 245px; 
+ width: 25%;    
+ background-color: gray; 
+ display: inline-block; 
+ vertical-align: top; 
+ margin-left: 15%;
+
+} 
+/* #about{
+
+    
+} */
+ 
+h1{
+    color: black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: left;
+
+
+}
+h3{
+    color: white;
+    font-size: 18pt;
+    text-align: left;
+}
+h6{
+    color: gray;
+    font-size: 10pt;
+
+}
+
+ul{
+    padding-left: 10px;
+    line-height: 10pt;
+}
+
+li{
+    color:white;
+    margin: 10px; 
+    
+}
+p{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+#footer{
+    height: 40px; 
+    background-color: white;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-top: 15px;
+    text-align: center;  
+} 
+
+#portrait {
+   padding:5px;
+   border:5px solid darkgray;
+   width: 25%;
+   display: inline-block;
+   margin-left: 15%;
+   
+}
+
+.box{
+    
+width: 20%;
+/* height: 200px; */
+color: black;
+background: linear-gradient(75deg, gray, white,gray );
+display: inline-block;
+vertical-align: top;
+margin-left: 8%;
+
+}
+
+.box_header{
+  height: 25px;  
+  background: darkgray;  
+  padding-left: 10px;
+}
+
+button{
+display: block;
+margin: auto;
+}
+
+.description{
+height: 100px;
+
+}
